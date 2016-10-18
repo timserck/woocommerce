@@ -1,0 +1,1622 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: woo products filter\n"
+"POT-Creation-Date: 2016-05-13 18:02+0530\n"
+"PO-Revision-Date: 2016-05-16 10:42+0530\n"
+"Last-Translator: \n"
+"Language-Team: theemon <support@theemon.com>\n"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: __;_e;esc_html__;esc_html_e;wp_kses\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/woopf-widgets.php:25
+msgid "Woo products Filter Widget"
+msgstr ""
+
+#: admin/woopf-widgets.php:27
+msgid "woopf Filter Widget"
+msgstr ""
+
+#: admin/woopf-widgets.php:67
+msgid "Title:"
+msgstr ""
+
+#: admin/woopf-widgets.php:68
+msgid "Icon Class:"
+msgstr ""
+
+#: admin/search/woopf-search-settings.php:88
+msgid "Sort By"
+msgstr ""
+
+#: admin/search/woopf-search-settings.php:89
+msgid "By Price"
+msgstr ""
+
+#: admin/search/woopf-search-settings.php:90
+msgid "By Categories"
+msgstr ""
+
+#: admin/search/woopf-search-settings.php:91
+msgid "By Tags"
+msgstr ""
+
+#: admin/search/woopf-search-settings.php:92
+msgid "By Characteristics"
+msgstr ""
+
+#: admin/search/woopf-search-settings.php:93
+msgid "In Stock Filter"
+msgstr ""
+
+#: admin/search/woopf-search-settings.php:94
+#: public/woopf-product-filter.php:508
+msgid "Products Per Page"
+msgstr ""
+
+#: admin/search/woopf-search-settings.php:125
+msgid "Add advanced filter"
+msgstr ""
+
+#: admin/search/woopf-search-settings.php:126
+msgid "Add range filter"
+msgstr ""
+
+#: admin/search/woopf-search-settings.php:140
+#: admin/search/woopf-search-settings.php:323
+msgid "Advanced Filter"
+msgstr ""
+
+#: admin/search/woopf-search-settings.php:147
+#: admin/search/woopf-search-settings.php:232
+msgid "Override title."
+msgstr ""
+
+#: admin/search/woopf-search-settings.php:165
+#: admin/search/woopf-search-settings.php:253
+#: admin/search/woopf-search-settings.php:258
+#: admin/search/woopf-search-settings.php:804
+#: admin/search/woopf-search-settings.php:877
+#: admin/search/woopf-search-settings.php:910
+#: admin/search/woopf-search-settings.php:924
+#: admin/search/woopf-search-settings.php:992
+#: admin/search/woopf-search-settings.php:995
+msgid "Include terms"
+msgstr ""
+
+#: admin/search/woopf-search-settings.php:169
+#: admin/search/woopf-search-settings.php:177
+#: admin/search/woopf-search-settings.php:265
+#: admin/search/woopf-search-settings.php:517
+#: admin/search/woopf-search-settings.php:808
+#: admin/search/woopf-search-settings.php:930
+#: admin/search/option/presets-option.php:430
+#: admin/search/option/presets-option.php:556
+#: admin/search/option/presets-option.php:663
+#: public/woopf-product-filter.php:69 public/woopf-product-filter.php:87
+#: public/woopf-product-filter.php:666 public/woopf-product-filter.php:803
+#: public/woopf-product-filter.php:982 public/woopf-product-filter.php:1093
+#: public/woopf-product-filter.php:1226 public/woopf-product-filter.php:1230
+#: public/woopf-product-filter.php:1234 public/woopf-product-filter.php:1237
+#: public/woopf-product-filter.php:1584 public/woopf-product-filter.php:1588
+#: public/woopf-product-filter.php:1592 public/woopf-product-filter.php:1595
+msgid "None"
+msgstr ""
+
+#: admin/search/woopf-search-settings.php:170
+#: admin/search/woopf-search-settings.php:178
+#: admin/search/woopf-search-settings.php:266
+#: admin/search/woopf-search-settings.php:518
+#: admin/search/woopf-search-settings.php:809
+#: admin/search/woopf-search-settings.php:931
+#: admin/search/option/presets-option.php:431
+#: admin/search/option/presets-option.php:557
+#: admin/search/option/presets-option.php:664
+msgid "ID"
+msgstr ""
+
+#: admin/search/woopf-search-settings.php:171
+#: admin/search/woopf-search-settings.php:179
+#: admin/search/woopf-search-settings.php:267
+#: admin/search/woopf-search-settings.php:519
+#: admin/search/woopf-search-settings.php:810
+#: admin/search/woopf-search-settings.php:932
+#: admin/search/option/presets-option.php:432
+#: admin/search/option/presets-option.php:558
+#: admin/search/option/presets-option.php:665
+msgid "Name"
+msgstr ""
+
+#: admin/search/woopf-search-settings.php:172
+#: admin/search/woopf-search-settings.php:268
+#: admin/search/woopf-search-settings.php:811
+#: admin/search/woopf-search-settings.php:933
+msgid "Number"
+msgstr ""
+
+#: admin/search/woopf-search-settings.php:173
+#: admin/search/woopf-search-settings.php:180
+#: admin/search/woopf-search-settings.php:269
+#: admin/search/woopf-search-settings.php:520
+#: admin/search/woopf-search-settings.php:812
+#: admin/search/woopf-search-settings.php:934
+#: admin/search/option/presets-option.php:433
+#: admin/search/option/presets-option.php:559
+#: admin/search/option/presets-option.php:666
+msgid "Slug"
+msgstr ""
+
+#: admin/search/woopf-search-settings.php:174
+#: admin/search/woopf-search-settings.php:181
+#: admin/search/woopf-search-settings.php:270
+#: admin/search/woopf-search-settings.php:521
+#: admin/search/woopf-search-settings.php:813
+#: admin/search/woopf-search-settings.php:935
+#: admin/search/option/presets-option.php:434
+#: admin/search/option/presets-option.php:560
+#: admin/search/option/presets-option.php:667
+msgid "Count"
+msgstr ""
+
+#: admin/search/woopf-search-settings.php:187
+#: admin/search/woopf-search-settings.php:276
+#: admin/search/woopf-search-settings.php:819
+#: admin/search/woopf-search-settings.php:941
+msgid "Term order by"
+msgstr ""
+
+#: admin/search/woopf-search-settings.php:191
+#: admin/search/woopf-search-settings.php:280
+#: admin/search/woopf-search-settings.php:532
+#: admin/search/woopf-search-settings.php:823
+#: admin/search/woopf-search-settings.php:945
+#: admin/search/option/presets-option.php:445
+#: admin/search/option/presets-option.php:571
+#: admin/search/option/presets-option.php:678
+msgid "ASC"
+msgstr ""
+
+#: admin/search/woopf-search-settings.php:192
+#: admin/search/woopf-search-settings.php:281
+#: admin/search/woopf-search-settings.php:533
+#: admin/search/woopf-search-settings.php:824
+#: admin/search/woopf-search-settings.php:946
+#: admin/search/option/presets-option.php:446
+#: admin/search/option/presets-option.php:572
+#: admin/search/option/presets-option.php:679
+msgid "DESC"
+msgstr ""
+
+#: admin/search/woopf-search-settings.php:199
+#: admin/search/woopf-search-settings.php:288
+#: admin/search/woopf-search-settings.php:831
+#: admin/search/woopf-search-settings.php:953
+msgid "Term order"
+msgstr ""
+
+#: admin/search/woopf-search-settings.php:200
+#: admin/search/woopf-search-settings.php:834
+msgid "Use multi select"
+msgstr ""
+
+#: admin/search/woopf-search-settings.php:204
+#: admin/search/woopf-search-settings.php:571
+#: admin/search/woopf-search-settings.php:838
+#: admin/search/option/presets-option.php:503
+#: admin/search/option/presets-option.php:603
+#: admin/search/option/presets-option.php:710
+msgid "Filtered products have at least one term (IN)"
+msgstr ""
+
+#: admin/search/woopf-search-settings.php:205
+#: admin/search/woopf-search-settings.php:572
+#: admin/search/woopf-search-settings.php:839
+#: admin/search/option/presets-option.php:504
+#: admin/search/option/presets-option.php:604
+#: admin/search/option/presets-option.php:711
+msgid "Filtered products have selected terms (AND)"
+msgstr ""
+
+#: admin/search/woopf-search-settings.php:211
+#: admin/search/woopf-search-settings.php:845
+msgid "Term relation"
+msgstr ""
+
+#: admin/search/woopf-search-settings.php:212
+#: admin/search/woopf-search-settings.php:848
+msgid "Use adoptive filtering"
+msgstr ""
+
+#: admin/search/woopf-search-settings.php:213
+msgid "Disable None"
+msgstr ""
+
+#: admin/search/woopf-search-settings.php:222
+msgid "Range Filter"
+msgstr ""
+
+#: admin/search/woopf-search-settings.php:233
+msgid "Select range"
+msgstr ""
+
+#: admin/search/woopf-search-settings.php:234
+#: admin/search/woopf-search-settings.php:897
+#: public/woopf-product-filter.php:308 public/woopf-product-filter.php:636
+#: public/woopf-product-filter.php:1328
+msgid "Price range"
+msgstr ""
+
+#: admin/search/woopf-search-settings.php:290
+#: admin/search/woopf-search-settings.php:955
+msgid "Flat"
+msgstr ""
+
+#: admin/search/woopf-search-settings.php:290
+#: admin/search/woopf-search-settings.php:955
+msgid "Modern"
+msgstr ""
+
+#: admin/search/woopf-search-settings.php:290
+#: admin/search/woopf-search-settings.php:955
+msgid "HTML5"
+msgstr ""
+
+#: admin/search/woopf-search-settings.php:290
+#: admin/search/woopf-search-settings.php:955
+msgid "White"
+msgstr ""
+
+#: admin/search/woopf-search-settings.php:297
+#: admin/search/woopf-search-settings.php:962
+msgid "Select style"
+msgstr ""
+
+#: admin/search/woopf-search-settings.php:300
+#: admin/search/woopf-search-settings.php:965
+msgid "Use grid"
+msgstr ""
+
+#: admin/search/woopf-search-settings.php:337 includes/setup.php:66
+msgid "Woo Product Filter"
+msgstr ""
+
+#: admin/search/woopf-search-settings.php:437
+msgid "Default Filter"
+msgstr ""
+
+#: admin/search/woopf-search-settings.php:438
+msgid "Advanced Options"
+msgstr ""
+
+#: admin/search/woopf-search-settings.php:456
+msgid "Product Filter"
+msgstr ""
+
+#: admin/search/woopf-search-settings.php:458
+#: admin/search/woopf-search-settings.php:631
+#: admin/search/option/presets-option.php:312
+#: public/woopf-product-filter.php:70
+msgid "Default"
+msgstr ""
+
+#: admin/search/woopf-search-settings.php:489
+msgid "By"
+msgstr ""
+
+#: admin/search/woopf-search-settings.php:489
+msgid "Filter Settings"
+msgstr ""
+
+#: admin/search/woopf-search-settings.php:491
+msgid "Select options for the current attribute."
+msgstr ""
+
+#: admin/search/woopf-search-settings.php:495
+msgid "Override "
+msgstr ""
+
+#: admin/search/woopf-search-settings.php:497
+#: admin/search/option/presets-option.php:643
+msgid ""
+"Enter title for the characteristics filter. If you leave this field blank "
+"default will be used."
+msgstr ""
+
+#: admin/search/woopf-search-settings.php:503
+msgid "Select Terms"
+msgstr ""
+
+#: admin/search/woopf-search-settings.php:505
+msgid ""
+"Select terms to include. Use CTRL+Click to select multiple terms or deselect "
+"all."
+msgstr ""
+
+#: admin/search/woopf-search-settings.php:512
+msgid "Terms Order By"
+msgstr ""
+
+#: admin/search/woopf-search-settings.php:514
+msgid "Select the term order."
+msgstr ""
+
+#: admin/search/woopf-search-settings.php:527
+msgid "Terms Order"
+msgstr ""
+
+#: admin/search/woopf-search-settings.php:529
+#: admin/search/option/presets-option.php:442
+#: admin/search/option/presets-option.php:568
+#: admin/search/option/presets-option.php:675
+msgid "Select ascending or descending order."
+msgstr ""
+
+#: admin/search/woopf-search-settings.php:539
+msgid "Appearance"
+msgstr ""
+
+#: admin/search/woopf-search-settings.php:541
+msgid "Select style preset to use with the current attribute."
+msgstr ""
+
+#: admin/search/woopf-search-settings.php:544
+msgid "Text"
+msgstr ""
+
+#: admin/search/woopf-search-settings.php:545
+msgid "Thumbnails with text"
+msgstr ""
+
+#: admin/search/woopf-search-settings.php:546
+msgid "Thumbnails only"
+msgstr ""
+
+#: admin/search/woopf-search-settings.php:552
+msgid "Use Attribute Hierarchy"
+msgstr ""
+
+#: admin/search/woopf-search-settings.php:554
+msgid "Check this option to enable attribute hierarchy."
+msgstr ""
+
+#: admin/search/woopf-search-settings.php:559
+#: admin/search/option/presets-option.php:491
+#: admin/search/option/presets-option.php:591
+#: admin/search/option/presets-option.php:698
+msgid "Use Multi Select"
+msgstr ""
+
+#: admin/search/woopf-search-settings.php:561
+msgid "Check this option to enable multi-select on current attribute."
+msgstr ""
+
+#: admin/search/woopf-search-settings.php:566
+msgid "Multi Select Terms Relation"
+msgstr ""
+
+#: admin/search/woopf-search-settings.php:568
+msgid "Select terms relation when multiple terms are selected."
+msgstr ""
+
+#: admin/search/woopf-search-settings.php:578
+#: admin/search/option/presets-option.php:510
+#: admin/search/option/presets-option.php:610
+#: admin/search/option/presets-option.php:717
+msgid "Use Adoptive Filtering"
+msgstr ""
+
+#: admin/search/woopf-search-settings.php:580
+msgid "Check this option to use adoptive filtering on current attribute."
+msgstr ""
+
+#: admin/search/woopf-search-settings.php:585
+msgid "Hide None"
+msgstr ""
+
+#: admin/search/woopf-search-settings.php:587
+msgid "Check this option to hide None on current attribute."
+msgstr ""
+
+#: admin/search/woopf-search-settings.php:604
+msgid "Product Filter Shop Archives Override"
+msgstr ""
+
+#: admin/search/woopf-search-settings.php:605
+msgid ""
+"Override archive filters. Select the term you wish to override and the "
+"desired filter preset and click Add Override to enable the new filter preset "
+"on this archive page."
+msgstr ""
+
+#: admin/search/woopf-search-settings.php:608
+msgid "Product Categories Overrides"
+msgstr ""
+
+#: admin/search/woopf-search-settings.php:609
+msgid "Product Tags Overrides"
+msgstr ""
+
+#: admin/search/woopf-search-settings.php:610
+msgid "Product Characteristics Overrides"
+msgstr ""
+
+#: admin/search/woopf-search-settings.php:618
+msgid "Term slug"
+msgstr ""
+
+#: admin/search/woopf-search-settings.php:618
+msgid "Filter Preset"
+msgstr ""
+
+#: admin/search/woopf-search-settings.php:618
+msgid "Remove Override"
+msgstr ""
+
+#: admin/search/woopf-search-settings.php:623
+msgid "Remove Selected Overrides"
+msgstr ""
+
+#: admin/search/woopf-search-settings.php:623
+msgid "Remove All Overrides"
+msgstr ""
+
+#: admin/search/woopf-search-settings.php:643
+msgid "Add Override"
+msgstr ""
+
+#: admin/search/woopf-search-settings.php:778
+#: admin/search/woopf-search-settings.php:895
+msgid "Override title"
+msgstr ""
+
+#: admin/search/woopf-search-settings.php:779
+msgid "Select taxonomy"
+msgstr ""
+
+#: admin/search/woopf-search-settings.php:851
+msgid "Hide none"
+msgstr ""
+
+#: admin/search/woopf-search-settings.php:896
+msgid "Select attribute"
+msgstr ""
+
+#: admin/search/option/presets-option.php:13
+msgid "Filter Basic Settings"
+msgstr ""
+
+#: admin/search/option/presets-option.php:15
+msgid "Setup you Product Filter appearance."
+msgstr ""
+
+#: admin/search/option/presets-option.php:19
+msgid "Always Visible"
+msgstr ""
+
+#: admin/search/option/presets-option.php:21
+msgid ""
+"This option will make Product Filter visible without the slide up/down "
+"animation at all times."
+msgstr ""
+
+#: admin/search/option/presets-option.php:26
+msgid "Instant Filtering"
+msgstr ""
+
+#: admin/search/option/presets-option.php:28
+msgid ""
+"Check this option to disable the filter button and use instant product "
+"filtering."
+msgstr ""
+
+#: admin/search/option/presets-option.php:33
+msgid "Show Term Products Count"
+msgstr ""
+
+#: admin/search/option/presets-option.php:35
+msgid "Check this option to show products count with the terms."
+msgstr ""
+
+#: admin/search/option/presets-option.php:40
+msgid "Show Term Search Fields"
+msgstr ""
+
+#: admin/search/option/presets-option.php:42
+msgid "Check this option to show search fields on supported terms."
+msgstr ""
+
+#: admin/search/option/presets-option.php:47
+msgid "Enable/Disable Adoptive Filtering"
+msgstr ""
+
+#: admin/search/option/presets-option.php:49
+msgid "Check this option to enable the adoptive filtering."
+msgstr ""
+
+#: admin/search/option/presets-option.php:54
+msgid "Select Adoptive Filtering Style"
+msgstr ""
+
+#: admin/search/option/presets-option.php:56
+msgid "Select style to use with the filtered terms."
+msgstr ""
+
+#: admin/search/option/presets-option.php:59
+msgid "Hide Terms"
+msgstr ""
+
+#: admin/search/option/presets-option.php:60
+msgid "Disabled and Unclickable"
+msgstr ""
+
+#: admin/search/option/presets-option.php:61
+msgid "Disabled but Clickable"
+msgstr ""
+
+#: admin/search/option/presets-option.php:67
+msgid "Disable Top Bar"
+msgstr ""
+
+#: admin/search/option/presets-option.php:69
+msgid ""
+"Check this option to hide the Product Filter top bar. This option will also "
+"make the filter always visible."
+msgstr ""
+
+#: admin/search/option/presets-option.php:74
+msgid "Disable Show Results Title"
+msgstr ""
+
+#: admin/search/option/presets-option.php:76
+msgid "Check this option to hide the show results text from the filter title."
+msgstr ""
+
+#: admin/search/option/presets-option.php:81
+msgid "Disable Sale Button"
+msgstr ""
+
+#: admin/search/option/presets-option.php:83
+msgid "Check this option to hide the Product Filter sale button."
+msgstr ""
+
+#: admin/search/option/presets-option.php:88
+msgid "Disable In Stock Button"
+msgstr ""
+
+#: admin/search/option/presets-option.php:90
+msgid "Check this option to hide the Product Filter in stock button."
+msgstr ""
+
+#: admin/search/option/presets-option.php:95
+msgid "Disable Reset Button"
+msgstr ""
+
+#: admin/search/option/presets-option.php:97
+msgid "Check this option to hide the Product Filter reset button."
+msgstr ""
+
+#: admin/search/option/presets-option.php:102
+msgid "Override No Products Action"
+msgstr ""
+
+#: admin/search/option/presets-option.php:104
+msgid ""
+"Input HTML/Shortcode to override the default action when no products are "
+"found. Default action means that random products will be shown when there "
+"are no products within the filter query."
+msgstr ""
+
+#: admin/search/option/presets-option.php:114
+msgid "Filter Style"
+msgstr ""
+
+#: admin/search/option/presets-option.php:116
+msgid ""
+"Select style preset to use. Use custom preset for your own style. Use "
+"Disable CSS to disable all CSS for product filter."
+msgstr ""
+
+#: admin/search/option/presets-option.php:120
+msgid "Limit Max Height"
+msgstr ""
+
+#: admin/search/option/presets-option.php:122
+msgid "check this option to limit the max height for the filter."
+msgstr ""
+
+#: admin/search/option/presets-option.php:127
+msgid "Max Height"
+msgstr ""
+
+#: admin/search/option/presets-option.php:129
+msgid "Set the Max Height value."
+msgstr ""
+
+#: admin/search/option/presets-option.php:140
+msgid "Use Custom Scroll Bars"
+msgstr ""
+
+#: admin/search/option/presets-option.php:142
+msgid ""
+"Check this option to override default browser scroll bars with javascrips "
+"scrollbars in Max Height mode."
+msgstr ""
+
+#: admin/search/option/presets-option.php:147
+msgid "Select Checkbox Style"
+msgstr ""
+
+#: admin/search/option/presets-option.php:149
+msgid "Select style for the term checkboxes."
+msgstr ""
+
+#: admin/search/option/presets-option.php:152
+msgid "Round"
+msgstr ""
+
+#: admin/search/option/presets-option.php:153
+msgid "Square"
+msgstr ""
+
+#: admin/search/option/presets-option.php:154
+msgid "Checkbox"
+msgstr ""
+
+#: admin/search/option/presets-option.php:160
+msgid "Select Filter Buttons Position"
+msgstr ""
+
+#: admin/search/option/presets-option.php:162
+msgid "Select position of the filter buttons (Filter selected)."
+msgstr ""
+
+#: admin/search/option/presets-option.php:165
+msgid "Bottom"
+msgstr ""
+
+#: admin/search/option/presets-option.php:166
+msgid "Top"
+msgstr ""
+
+#: admin/search/option/presets-option.php:172
+msgid "Override Filter Submit Text"
+msgstr ""
+
+#: admin/search/option/presets-option.php:174
+msgid "Override \"Filter selected\", the default filter submit button text."
+msgstr ""
+
+#: admin/search/option/presets-option.php:180
+msgid "Select AJAX Loader Icon"
+msgstr ""
+
+#: admin/search/option/presets-option.php:182
+msgid "Select AJAX loader icon."
+msgstr ""
+
+#: admin/search/option/presets-option.php:185
+msgid "Audio"
+msgstr ""
+
+#: admin/search/option/presets-option.php:186
+msgid "Ball Triangle"
+msgstr ""
+
+#: admin/search/option/presets-option.php:187
+msgid "Bars"
+msgstr ""
+
+#: admin/search/option/presets-option.php:188
+#: admin/search/option/presets-option.php:196
+msgid "Circles"
+msgstr ""
+
+#: admin/search/option/presets-option.php:189
+msgid "Grid"
+msgstr ""
+
+#: admin/search/option/presets-option.php:190
+msgid "Hearts"
+msgstr ""
+
+#: admin/search/option/presets-option.php:191
+msgid "Oval"
+msgstr ""
+
+#: admin/search/option/presets-option.php:192
+msgid "Puff"
+msgstr ""
+
+#: admin/search/option/presets-option.php:193
+msgid "Rings"
+msgstr ""
+
+#: admin/search/option/presets-option.php:194
+msgid "Spining Circles"
+msgstr ""
+
+#: admin/search/option/presets-option.php:195
+msgid "Tail Spin"
+msgstr ""
+
+#: admin/search/option/presets-option.php:197
+msgid "Three Dots"
+msgstr ""
+
+#: admin/search/option/presets-option.php:207
+#: admin/search/option/presets-option.php:213
+msgid "Select Filters"
+msgstr ""
+
+#: admin/search/option/presets-option.php:209
+msgid ""
+"Select filters to use on default template or current filter preset. For "
+"basic filters, shown in green and red depending on their use, the settings "
+"can be found bellow. Advanced and range filters, shown a blue, are set "
+"within the manager itself. Click and drag the filters to reorder."
+msgstr ""
+
+#: admin/search/option/presets-option.php:215
+msgid ""
+"Select filters. Click on a filter to activate or create advanced filters. "
+"Click and drag to reorder filters."
+msgstr ""
+
+#: admin/search/option/presets-option.php:223
+msgid "Products Per Filter Settings"
+msgstr ""
+
+#: admin/search/option/presets-option.php:225
+msgid "Setup products per page filter."
+msgstr ""
+
+#: admin/search/option/presets-option.php:229
+msgid "Override Products Per Page Filter Title"
+msgstr ""
+
+#: admin/search/option/presets-option.php:231
+msgid ""
+"Enter title for the products per page filter. If you leave this field blank "
+"default will be used."
+msgstr ""
+
+#: admin/search/option/presets-option.php:237
+msgid "Override Products Per Page Filter Label"
+msgstr ""
+
+#: admin/search/option/presets-option.php:239
+msgid ""
+"Enter label for the products per page filter. If you leave this field blank "
+"default will be used."
+msgstr ""
+
+#: admin/search/option/presets-option.php:245
+msgid "Per Page Filter Initial"
+msgstr ""
+
+#: admin/search/option/presets-option.php:247
+msgid "Initial products per page value."
+msgstr ""
+
+#: admin/search/option/presets-option.php:258
+msgid "Per Page Filter Values"
+msgstr ""
+
+#: admin/search/option/presets-option.php:260
+msgid "Number of product per page values."
+msgstr ""
+
+#: admin/search/option/presets-option.php:275
+msgid "In Stock Filter Settings"
+msgstr ""
+
+#: admin/search/option/presets-option.php:277
+msgid "Setup in stock filter."
+msgstr ""
+
+#: admin/search/option/presets-option.php:281
+msgid "Override In Stock Filter Title"
+msgstr ""
+
+#: admin/search/option/presets-option.php:283
+msgid ""
+"Enter title for the in stock filter. If you leave this field blank default "
+"will be used."
+msgstr ""
+
+#: admin/search/option/presets-option.php:293
+msgid "Sort By Filter Settings"
+msgstr ""
+
+#: admin/search/option/presets-option.php:295
+msgid "Setup sort by filter."
+msgstr ""
+
+#: admin/search/option/presets-option.php:299
+msgid "Override Sort By Filter Title"
+msgstr ""
+
+#: admin/search/option/presets-option.php:301
+msgid ""
+"Enter title for the sort by filter. If you leave this field blank default "
+"will be used."
+msgstr ""
+
+#: admin/search/option/presets-option.php:307
+msgid "Select Sort By Terms"
+msgstr ""
+
+#: admin/search/option/presets-option.php:309
+msgid ""
+"Select Sort by terms to include. Use CTRL+Click to select multiple Sort by "
+"terms or deselect all to use all Sort by terms."
+msgstr ""
+
+#: admin/search/option/presets-option.php:313
+#: public/woopf-product-filter.php:71
+msgid "Review Count"
+msgstr ""
+
+#: admin/search/option/presets-option.php:314
+#: public/woopf-product-filter.php:72
+msgid "Popularity"
+msgstr ""
+
+#: admin/search/option/presets-option.php:315
+#: public/woopf-product-filter.php:73
+msgid "Average rating"
+msgstr ""
+
+#: admin/search/option/presets-option.php:316
+#: public/woopf-product-filter.php:74
+msgid "Newness"
+msgstr ""
+
+#: admin/search/option/presets-option.php:317
+#: public/woopf-product-filter.php:75
+msgid "Price: low to high"
+msgstr ""
+
+#: admin/search/option/presets-option.php:318
+#: public/woopf-product-filter.php:76
+msgid "Price: high to low"
+msgstr ""
+
+#: admin/search/option/presets-option.php:319
+#: public/woopf-product-filter.php:77
+msgid "Random Products"
+msgstr ""
+
+#: admin/search/option/presets-option.php:320
+#: public/woopf-product-filter.php:78
+msgid "Product Name"
+msgstr ""
+
+#: admin/search/option/presets-option.php:326
+msgid "Order By Hide None"
+msgstr ""
+
+#: admin/search/option/presets-option.php:328
+msgid "Check this option to hide None on order by filter."
+msgstr ""
+
+#: admin/search/option/presets-option.php:338
+msgid "By Price Filter Settings"
+msgstr ""
+
+#: admin/search/option/presets-option.php:340
+msgid "Setup by price filter."
+msgstr ""
+
+#: admin/search/option/presets-option.php:344
+msgid "Override Price Filter Title"
+msgstr ""
+
+#: admin/search/option/presets-option.php:346
+msgid ""
+"Enter title for the price filter. If you leave this field blank default will "
+"be used."
+msgstr ""
+
+#: admin/search/option/presets-option.php:352
+msgid "Price Range Filter Initial Price"
+msgstr ""
+
+#: admin/search/option/presets-option.php:354
+msgid "Initial price for the filter."
+msgstr ""
+
+#: admin/search/option/presets-option.php:365
+msgid "Price Range Filter Price Add"
+msgstr ""
+
+#: admin/search/option/presets-option.php:367
+msgid "Price to add."
+msgstr ""
+
+#: admin/search/option/presets-option.php:378
+msgid "Price Range Filter Intervals"
+msgstr ""
+
+#: admin/search/option/presets-option.php:380
+msgid ""
+"Number of price intervals to use. E.G. You have set the initial price to "
+"99.9, and the add price is set to 100, you will achieve filtering like "
+"0-99.9, 99.9-199.9, 199.9- 299.9 for the number of times as set in the price "
+"intervals setting."
+msgstr ""
+
+#: admin/search/option/presets-option.php:391
+msgid "Price Range Hide None"
+msgstr ""
+
+#: admin/search/option/presets-option.php:393
+msgid "Check this option to hide None on price filter."
+msgstr ""
+
+#: admin/search/option/presets-option.php:402
+msgid "By Category Filter Settings"
+msgstr ""
+
+#: admin/search/option/presets-option.php:404
+msgid "Setup by category filter."
+msgstr ""
+
+#: admin/search/option/presets-option.php:408
+msgid "Override Category Filter Title"
+msgstr ""
+
+#: admin/search/option/presets-option.php:410
+msgid ""
+"Enter title for the category filter. If you leave this field blank default "
+"will be used."
+msgstr ""
+
+#: admin/search/option/presets-option.php:416
+msgid "Select Categories"
+msgstr ""
+
+#: admin/search/option/presets-option.php:418
+msgid ""
+"Select categories to include. Use CTRL+Click to select multiple categories "
+"or deselect all."
+msgstr ""
+
+#: admin/search/option/presets-option.php:425
+msgid "Categories Order By"
+msgstr ""
+
+#: admin/search/option/presets-option.php:427
+msgid "Select the categories order."
+msgstr ""
+
+#: admin/search/option/presets-option.php:440
+msgid "Categories Order"
+msgstr ""
+
+#: admin/search/option/presets-option.php:452
+msgid "Limit Categories"
+msgstr ""
+
+#: admin/search/option/presets-option.php:454
+msgid ""
+"Limit number of categories to be shown. If limit is set categories with most "
+"posts will be shown first."
+msgstr ""
+
+#: admin/search/option/presets-option.php:465
+msgid "Use Category Hierarchy"
+msgstr ""
+
+#: admin/search/option/presets-option.php:467
+msgid "Check this option to enable category hierarchy."
+msgstr ""
+
+#: admin/search/option/presets-option.php:472
+msgid "Categories Hierarchy Mode"
+msgstr ""
+
+#: admin/search/option/presets-option.php:474
+msgid "Check this option to expand parent categories on load."
+msgstr ""
+
+#: admin/search/option/presets-option.php:479
+msgid "Categories Hierarchy Filtering Mode"
+msgstr ""
+
+#: admin/search/option/presets-option.php:481
+msgid "Select how to show categories upon filtering."
+msgstr ""
+
+#: admin/search/option/presets-option.php:484
+msgid "Show all"
+msgstr ""
+
+#: admin/search/option/presets-option.php:485
+msgid "Keep only parent and children categories"
+msgstr ""
+
+#: admin/search/option/presets-option.php:493
+msgid "Check this option to enable multi-select on categories."
+msgstr ""
+
+#: admin/search/option/presets-option.php:498
+msgid "Multi Select Categories Relation"
+msgstr ""
+
+#: admin/search/option/presets-option.php:500
+msgid "Select categories relation when multiple terms are selected."
+msgstr ""
+
+#: admin/search/option/presets-option.php:512
+msgid "Check this option to use adoptive filtering on categories."
+msgstr ""
+
+#: admin/search/option/presets-option.php:517
+msgid "Categories Hide None"
+msgstr ""
+
+#: admin/search/option/presets-option.php:519
+msgid "Check this option to hide None on categories."
+msgstr ""
+
+#: admin/search/option/presets-option.php:528
+msgid "By Tag Filter Settings"
+msgstr ""
+
+#: admin/search/option/presets-option.php:530
+msgid "Setup by tag filter."
+msgstr ""
+
+#: admin/search/option/presets-option.php:534
+msgid "Override Tag Filter Title"
+msgstr ""
+
+#: admin/search/option/presets-option.php:536
+msgid ""
+"Enter title for the tag filter. If you leave this field blank default will "
+"be used."
+msgstr ""
+
+#: admin/search/option/presets-option.php:542
+msgid "Select Tags"
+msgstr ""
+
+#: admin/search/option/presets-option.php:544
+msgid ""
+"Select tags to include. Use CTRL+Click to select multiple tags or deselect "
+"all."
+msgstr ""
+
+#: admin/search/option/presets-option.php:551
+msgid "Tags Order By"
+msgstr ""
+
+#: admin/search/option/presets-option.php:553
+msgid "Select the tags order."
+msgstr ""
+
+#: admin/search/option/presets-option.php:566
+msgid "Tags Order"
+msgstr ""
+
+#: admin/search/option/presets-option.php:578
+msgid "Limit Tags"
+msgstr ""
+
+#: admin/search/option/presets-option.php:580
+msgid ""
+"Limit number of tags to be shown. If limit is set tags with most posts will "
+"be shown first."
+msgstr ""
+
+#: admin/search/option/presets-option.php:593
+msgid "Check this option to enable multi-select on tags."
+msgstr ""
+
+#: admin/search/option/presets-option.php:598
+msgid "Multi Select Tags Relation"
+msgstr ""
+
+#: admin/search/option/presets-option.php:600
+msgid "Select tags relation when multiple terms are selected."
+msgstr ""
+
+#: admin/search/option/presets-option.php:612
+msgid "Check this option to use adoptive filtering on tags."
+msgstr ""
+
+#: admin/search/option/presets-option.php:617
+msgid "Tags Hide None"
+msgstr ""
+
+#: admin/search/option/presets-option.php:619
+msgid "Check this option to hide None on tags."
+msgstr ""
+
+#: admin/search/option/presets-option.php:628
+msgid "By Characteristics Filter Settings"
+msgstr ""
+
+#: admin/search/option/presets-option.php:630
+msgid "Setup by characteristics filter."
+msgstr ""
+
+#: admin/search/option/presets-option.php:634
+msgid "Use Characteristics"
+msgstr ""
+
+#: admin/search/option/presets-option.php:636
+msgid "Enable this option to get custom characteristics product meta box."
+msgstr ""
+
+#: admin/search/option/presets-option.php:641
+msgid "Override Characteristics Filter Title"
+msgstr ""
+
+#: admin/search/option/presets-option.php:649
+msgid "Select Characteristics"
+msgstr ""
+
+#: admin/search/option/presets-option.php:651
+msgid ""
+"Select characteristics to include. Use CTRL+Click to select multiple "
+"characteristics or deselect all."
+msgstr ""
+
+#: admin/search/option/presets-option.php:658
+msgid "Characteristics Order By"
+msgstr ""
+
+#: admin/search/option/presets-option.php:660
+msgid "Select the characteristics order."
+msgstr ""
+
+#: admin/search/option/presets-option.php:673
+msgid "Characteristics Order"
+msgstr ""
+
+#: admin/search/option/presets-option.php:685
+msgid "Limit Characteristics"
+msgstr ""
+
+#: admin/search/option/presets-option.php:687
+msgid ""
+"Limit number of characteristics to be shown. If limit is set characteristics "
+"with most posts will be shown first."
+msgstr ""
+
+#: admin/search/option/presets-option.php:700
+msgid "Check this option to enable multi-select on characteristics."
+msgstr ""
+
+#: admin/search/option/presets-option.php:705
+msgid "Multi Select Characteristics Relation"
+msgstr ""
+
+#: admin/search/option/presets-option.php:707
+msgid "Select characteristics relation when multiple terms are selected."
+msgstr ""
+
+#: admin/search/option/presets-option.php:719
+msgid "Check this option to use adoptive filtering on characteristics."
+msgstr ""
+
+#: admin/search/option/presets-option.php:724
+msgid "Characteristics Hide None"
+msgstr ""
+
+#: admin/search/option/presets-option.php:726
+msgid "Check this option to hide None on characteristics."
+msgstr ""
+
+#: admin/search/option/advance-option.php:14
+msgid "Filter General Settings"
+msgstr ""
+
+#: admin/search/option/advance-option.php:16
+msgid "These settings will affect all filters."
+msgstr ""
+
+#: admin/search/option/advance-option.php:20
+msgid "Enable/Disable Filter Template Overrides"
+msgstr ""
+
+#: admin/search/option/advance-option.php:22
+msgid ""
+"Uncheck this option in order to disable the Product Filter template override "
+"and use the default WooCommerce or"
+msgstr ""
+
+#: admin/search/option/advance-option.php:22
+msgid ""
+"theme filter. This option should be unchecked if you are using the widget "
+"version."
+msgstr ""
+
+#: admin/search/option/advance-option.php:27
+msgid "Show In Stock Products by Default"
+msgstr ""
+
+#: admin/search/option/advance-option.php:29
+msgid "Check this option to show the In Stock products by default."
+msgstr ""
+
+#: admin/search/option/advance-option.php:39
+msgid "Filter AJAX Product Archives Settings"
+msgstr ""
+
+#: admin/search/option/advance-option.php:41
+msgid ""
+"AJAX Product Archives Settings - Setup this section to use AJAX on shop and "
+"product archive pages."
+msgstr ""
+
+#: admin/search/option/advance-option.php:45
+msgid "Use AJAX On Product Archives"
+msgstr ""
+
+#: admin/search/option/advance-option.php:47
+msgid "Check this option to use AJAX load on shop and product archive pages."
+msgstr ""
+
+#: admin/search/option/advance-option.php:52
+msgid "Override AJAX Wrapper Class"
+msgstr ""
+
+#: admin/search/option/advance-option.php:54
+msgid ""
+"Enter custom wrapper class if you are using a broken template and the "
+"default setting is not working. Default class: .products"
+msgstr ""
+
+#: admin/search/option/advance-option.php:60
+msgid "Override AJAX Product Class"
+msgstr ""
+
+#: admin/search/option/advance-option.php:62
+msgid ""
+"Enter custom products class if you are using a broken template and the "
+"default setting is not working. Default class: .type-product"
+msgstr ""
+
+#: admin/search/option/advance-option.php:68
+msgid "AJAX Product Columns"
+msgstr ""
+
+#: admin/search/option/advance-option.php:70
+msgid ""
+"Enter the number of columns to be used to display the product on product "
+"archieve page."
+msgstr ""
+
+#: admin/search/option/advance-option.php:76
+msgid "AJAX Product Rows"
+msgstr ""
+
+#: admin/search/option/advance-option.php:78
+msgid ""
+"Enter the number of rows to be used to display the product on product "
+"archieve page."
+msgstr ""
+
+#: admin/search/option/advance-option.php:89
+msgid "Advanced Settings"
+msgstr ""
+
+#: admin/search/option/advance-option.php:91
+msgid "Advanced Settings - These settings will affect all filters."
+msgstr ""
+
+#: admin/search/option/advance-option.php:95
+msgid "Shop/Category Display Types And Product Filter"
+msgstr ""
+
+#: admin/search/option/advance-option.php:97
+msgid ""
+"Select what display types will not show the Product Filter.  Use CTRL+Click "
+"to select multiple display types or deselect all."
+msgstr ""
+
+#: admin/search/option/advance-option.php:100
+msgid "Show Categories"
+msgstr ""
+
+#: admin/search/option/advance-option.php:101
+msgid "Show Both"
+msgstr ""
+
+#: admin/search/option/advance-option.php:107
+msgid "Enable/Disable Shop Page Product Filter"
+msgstr ""
+
+#: admin/search/option/advance-option.php:109
+msgid ""
+"Check this option in order to disable the Product Filter on Shop page. This "
+"option can be useful for themes with custom Shop pages, if checked the "
+"default WooCommerce or"
+msgstr ""
+
+#: admin/search/option/advance-option.php:109
+msgid ""
+"filter template will be overriden only on product archives that support it."
+msgstr ""
+
+#: admin/search/option/advance-option.php:114
+msgid "Enable/Disable Default Filter Templates"
+msgstr ""
+
+#: admin/search/option/advance-option.php:116
+msgid ""
+"If you have disabled the Product Filter Override Templates option at the "
+"top, then your default WooCommerce or"
+msgstr ""
+
+#: admin/search/option/advance-option.php:116
+msgid ""
+"filter templates will be shown. If you want do disable these default "
+"templates too, check this option. This option can be usefull for the widget "
+"version of the Product Filter."
+msgstr ""
+
+#: admin/search/option/advance-option.php:121
+msgid "Disable JavaScript Libraries"
+msgstr ""
+
+#: admin/search/option/advance-option.php:123
+msgid ""
+"Select JavaScript libraries to disable. Use CTRL+Click to select multiple "
+"libraries or deselect all. Selected libraries will not be loaded."
+msgstr ""
+
+#: admin/search/option/advance-option.php:126
+msgid "Ion Range Slider"
+msgstr ""
+
+#: admin/search/option/advance-option.php:127
+msgid "Isotope"
+msgstr ""
+
+#: admin/search/option/advance-option.php:128
+msgid "Malihu jQuery Scrollbar"
+msgstr ""
+
+#: admin/search/option/advance-option.php:134
+msgid "Force Filtering thru Categories"
+msgstr ""
+
+#: admin/search/option/advance-option.php:136
+msgid ""
+"Check this option if you are having issues with the redirects. This option "
+"should never be checked unless something is wrong with the template you are "
+"using. This option also limits your categories filter. The categories filter "
+"should not be used if this option is activated. (This option has changed "
+"since the 2.3.0 release. Now all installations should be compatible with the "
+"redirects by default. Test your installation before activating the option "
+"again)"
+msgstr ""
+
+#: admin/search/option/advance-option.php:141
+msgid "Force Post Type Variable"
+msgstr ""
+
+#: admin/search/option/advance-option.php:143
+msgid ""
+"Check this option if you are having issues with the searches. This option "
+"should never be checked unless something is wrong with the template you are "
+"using. Option will add the ?post_type=product parameter when filtering."
+msgstr ""
+
+#: admin/search/option/advance-option.php:148
+msgid "Disable Product Filter Redirects"
+msgstr ""
+
+#: admin/search/option/advance-option.php:150
+msgid ""
+"Check this option if you are having issues with the shop filter redirects."
+msgstr ""
+
+#: admin/search/option/advance-option.php:155
+msgid "Disable Empty Shop Redirects"
+msgstr ""
+
+#: admin/search/option/advance-option.php:157
+msgid ""
+"Check this option if you are having issues with the shop page redirects."
+msgstr ""
+
+#: admin/search/option/advance-option.php:162
+msgid "Use Variable Images"
+msgstr ""
+
+#: admin/search/option/advance-option.php:164
+msgid ""
+"Check this option to use variable images override on shop and archive pages. "
+"CAUTION: This setting does not work on all servers by default. Additional "
+"server setup might be needed."
+msgstr ""
+
+#: admin/search/option/advance-option.php:170
+msgid "Display Product Images In Search  "
+msgstr ""
+
+#: admin/search/option/advance-option.php:172
+msgid ""
+"Check this option to display product images in product search. CAUTION: This "
+"setting does not work on all servers by default. Additional server setup "
+"might be needed."
+msgstr ""
+
+#: admin/search/option/advance-option.php:178
+msgid "AJAX jQuery and JS Refresh"
+msgstr ""
+
+#: admin/search/option/advance-option.php:180
+msgid ""
+"Input jQuery or JS code to execute after AJAX calls. This option is usefull "
+"if the JS is broken after these calls."
+msgstr ""
+
+#: includes/setup.php:31
+msgid ""
+"Woo Products Filter could not detect woocommerce plugin. Make sure you have "
+"activated woocommerce plugin."
+msgstr ""
+
+#: includes/setup.php:43
+msgid "Your settings have been saved."
+msgstr ""
+
+#: includes/setup.php:66
+msgid "WooProduct Filter"
+msgstr ""
+
+#: includes/setup.php:67
+msgid "General Setting"
+msgstr ""
+
+#: includes/setup.php:83
+msgid "Settings"
+msgstr ""
+
+#: public/woopf-product-filter.php:93
+msgid "All Products"
+msgstr ""
+
+#: public/woopf-product-filter.php:94
+msgid "In Stock"
+msgstr ""
+
+#: public/woopf-product-filter.php:95
+msgid "Out Of Stock"
+msgstr ""
+
+#: public/woopf-product-filter.php:155 public/woopf-product-filter.php:1721
+msgid "No products found"
+msgstr ""
+
+#: public/woopf-product-filter.php:156 public/woopf-product-filter.php:1722
+msgid "Please widen your search criteria."
+msgstr ""
+
+#: public/woopf-product-filter.php:253
+msgid "Filter products"
+msgstr ""
+
+#: public/woopf-product-filter.php:265
+msgid "Products per page"
+msgstr ""
+
+#: public/woopf-product-filter.php:270
+msgid "Products on sale"
+msgstr ""
+
+#: public/woopf-product-filter.php:344
+msgid "No products found!"
+msgstr ""
+
+#: public/woopf-product-filter.php:345
+msgid "Showing the single result"
+msgstr ""
+
+#: public/woopf-product-filter.php:347
+msgid "Showing all"
+msgstr ""
+
+#: public/woopf-product-filter.php:347 public/woopf-product-filter.php:349
+msgid "results"
+msgstr ""
+
+#: public/woopf-product-filter.php:349
+msgid "Showing"
+msgstr ""
+
+#: public/woopf-product-filter.php:349
+msgid "of"
+msgstr ""
+
+#: public/woopf-product-filter.php:519
+msgid "Products"
+msgstr ""
+
+#: public/woopf-product-filter.php:550
+msgid "Product Availability"
+msgstr ""
+
+#: public/woopf-product-filter.php:586
+msgid "Sort by"
+msgstr ""
+
+#: public/woopf-product-filter.php:796 public/woopf-product-filter.php:1210
+msgid "Categories"
+msgstr ""
+
+#: public/woopf-product-filter.php:977 public/woopf-product-filter.php:1211
+msgid "Tags"
+msgstr ""
+
+#: public/woopf-product-filter.php:1087 public/woopf-product-filter.php:1212
+msgid "Characteristics"
+msgstr ""
+
+#: public/woopf-public.php:112
+msgid "Close filter"
+msgstr ""
+
+#: public/woopf-public.php:113
+msgid "Filter terms"
+msgstr ""
+
+#: public/woopf-public.php:963
+msgid ""
+"Product Filter was already activated on this page using a template override. "
+"Uncheck the Enable/Disable Product Filter Template Overrides in the product "
+"filter advanced options tab to use the widget version instead of the order "
+"by filter template override."
+msgstr ""
+
+#: public/woopf-public.php:966
+msgid ""
+"Product Filter was already activated on this page using a shortcode. You "
+"cannot use the widget filter and the shortcode filter on a same page. If you "
+"want to use the widget filter with the shortcode then use the shortcode "
+"parameter"
+msgstr ""
+
+#: public/woopf-public.php:966
+msgid ""
+"This parameter will hide the shortcode filter and the widget filter will "
+"appear."
+msgstr ""
+
+#: public/woopf-public.php:969
+msgid ""
+"Product Filter was already activated on this page using a non-ajax "
+"shortcode. Multiple shortcode instances are only possible when AJAX is "
+"activated for all shortcodes used in the page."
+msgstr ""
+
+#: public/woopf-public.php:1297
+msgid "Filter selected"
+msgstr ""
+
+#: public/woopf-public.php:1303
+msgid "Show only products on sale"
+msgstr ""
+
+#: public/woopf-public.php:1310
+msgid "Show out of stock products"
+msgstr ""
+
+#: public/woopf-public.php:1312
+msgid "In stock only"
+msgstr ""
+
+#: public/woopf-public.php:1318
+msgid "Clear all filters"
+msgstr ""

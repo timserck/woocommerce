@@ -1,0 +1,184 @@
+/*------------------------------------------------------------------
+[Woopf Product Filter ADMIN]
+
+[Table of contents]
+
+1.General
+-------------------------------------------------------------------*/
+
+/*------------------------------------------------------------------
+[Font]
+-------------------------------------------------------------------*
+@import url('../font/styles.css');
+
+/*------------------------------------------------------------------
+[General]
+-------------------------------------------------------------------*/
+#woopf_filter_presets {
+	min-width: 300px;
+}
+
+#woopf_save, #woopf_load, #woopf_delete, #woopf_save_bottom {
+	background: #cc99c2;
+	border-color: #b366a4;
+}
+
+#woopf_save:hover, #woopf_load:hover, #woopf_delete:hover, #woopf_save_bottom:hover
+	{
+	background: #bb77ae;
+	border-color: #aa559a;
+}
+
+#woopf_save_bottom {
+	margin-right: 10px;
+}
+
+span.woopf_override_controls {
+	display: block;
+	margin-bottom: 10px;
+}
+
+span.woopf_override {
+	display: block;
+	background-color: #f8f8f8;
+	padding: 10px 10px;
+	border: 1px solid #ddd;
+	border-radius: 2px;
+	margin-bottom: 10px;
+	max-width: 900px;
+	line-height: 28px
+}
+
+span.woopf_override span.slug, span.woopf_override span.preset {
+	display: inline-block;
+	color: #fff;
+	background: #bb77ae;
+	padding: 0 6px;
+	border-radius: 3px;
+	margin-right: 10px;
+}
+
+span.woopf_override .woopf_or_remove {
+	float: right;
+}
+
+span.woopf_override {
+	display: block;
+}
+
+select.woopf_or_select, select.woopf_filter_presets {
+	min-width: 300px;
+}
+
+/*------------------------------------------------------------------
+[Customizer]
+-------------------------------------------------------------------*/
+.woopf_customizer_fields {
+	margin: -4px 0 20px !important;
+}
+
+.woopf_customizer_fields a {
+	display: inline-block;
+	padding: 0 5px;
+	border: 1px solid rgba(0, 0, 0, 0.1);
+	border-radius: 2px;
+	text-decoration: none;
+	background-color: #f25353;
+	color: #fff;
+	margin-bottom: 10px;
+}
+
+.woopf_customizer_fields a.pf_active {
+	background-color: #23ba69;
+}
+
+.woopf_customizer_fields a.pf_advanced, .woopf_customizer_fields a.pf_range {
+	background-color: #519bea;
+}
+
+.woopf_customizer_fields a i {
+	font-size: 20px;
+	vertical-align: middle;
+}
+
+.woopf_customizer_fields a span {
+	vertical-align: middle;
+}
+
+.woopf_customizer {
+	
+}
+
+.woopf_customizer>span {
+	position: relative;
+	display: block;
+	width: 400px;
+	margin-top: 5px;
+	background: #f8f8f8;
+	border: 1px solid #ddd;
+	border-radius: 2px;
+}
+
+.woopf_customizer>span:first-child {
+	margin-top: 0;
+}
+
+.woopf_customizer>span a {
+	text-decoration: none;
+}
+
+.woopf_customizer>span>span {
+	display: inline-block;
+	padding: 10px;
+}
+
+.woopf_customizer .woopf_c_toggle, .woopf_customizer .woopf_c_delete, .woopf_customizer .woopf_c_move
+	{
+	float: right;
+	display: inline-block;
+	font-size: 20px;
+	line-height: 40px;
+	width: 30px;
+	text-align: center;
+	border-radius: 2px;
+	vertical-align: middle;
+}
+
+.woopf_customizer .pf_options_holder {
+	display: block;
+}
+
+.pf_element label {
+	display: block;
+}
+
+.pf_element label span {
+	display: block;
+	font-size: 12px;
+	font-style: italic;
+	margin-bottom: 5px;
+}
+
+.pf_element label input[type="text"], .pf_element label select {
+	width: 95%;
+	margin-bottom: 10px;
+}
+
+.clearfix {
+	display: block;
+	clear: both;
+	width: 100%;
+}
+
+
+.subsubsub > li {
+    background: #cccccc none repeat scroll 0 0;
+    margin: 10px;
+    padding: 6px;
+}
+
+.form-table {
+    background: #ffffff none repeat scroll 0 0;
+    display: block;
+    padding: 10px;
+}
